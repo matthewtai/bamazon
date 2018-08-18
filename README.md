@@ -10,8 +10,8 @@
 
 ### Specifications
 * ### The schema is included, feel free to load it up
-* ### console.table is used to log tables to bash
-* ### chalk is used to enchange the user experience by giving the CLI colour :smile:
+* ### console.table is used to log tables to terminal
+* ### chalk is used to enhance the user experience by giving the CLI colour :smile:
 
 ### Youtube Links
 * ### https://www.youtube.com/watch?v=Q_ZyrhW2pD4&feature=youtu.be
